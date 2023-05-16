@@ -67,7 +67,7 @@ if (currentHour < 12) {
 } else if (currentHour >= 19) {
   time = "Good Night";
 }
-const html = `<h1 class="top-heading"> ${time} Sharad !</h1>`;
+const html = `<h1 class="top-heading"> ${time} Sanyam !</h1>`;
 heading.innerHTML += html;
 
 //getting random quotes
